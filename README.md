@@ -2,5 +2,10 @@
 
 Here's what I used:
 
-- Gatsby starter for creating a blog
-- Netlify for automatic deploys
+[x] Gatsby starter for creating a blog.
+[x] Netlify for automatic deploys.
+
+What's next?
+
+[] Possibly migrating to a headless Wordpress for the backend.
+[] Some fresh coat of paint with a colorful design, me thinks.
